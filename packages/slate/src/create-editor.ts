@@ -103,7 +103,7 @@ export const createEditor = (): Editor => {
     // Core
     apply: (...args) => apply(editor, ...args),
 
-    //
+    ////
 
     // Editor
     addMark: (...args) => addMark(editor, ...args),
